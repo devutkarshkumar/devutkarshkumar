@@ -80,13 +80,6 @@ A network traffic intelligence and inspection platform.
 
 **Technologies:** C++, ImGui, SQLite, mitmproxy.
 
-### 📱 SocialSnap
-A media downloader and extraction project.
-
-**Technologies:** Python, yt-dlp, Next.js, APIs.
-
-### 📲 SuperInsta
-An offline-oriented media application built with React Native and Expo.
 
 **Technologies:** React Native, Expo, FFmpeg.
 
